@@ -1,0 +1,26 @@
+ul{
+    display: flex; 
+} 
+li{
+    list-style: none; 
+    margin-left: 170px;  
+    color: yellow;
+    font-size: large;
+}  
+a { 
+    text-decoration: none; 
+    color: inherit;
+ } 
+ td{
+    text-align: center;
+ } 
+ tr td{
+    border: 2px solid yellow;  
+}  
+th{
+    border: 2px solid yellow;
+}
+table{
+    border-collapse: collapse;
+} 
+
